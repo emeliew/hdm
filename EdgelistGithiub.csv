@@ -1,0 +1,11 @@
+from,to,weight,relationship
+H,D,1,2
+H,V,3,3
+H,C,1,1
+H,P,1,1
+V,P,3,3
+V,C,3,3
+V,H,3,3
+C,H,1,1
+P,H,1,1
+D,H,1,2
